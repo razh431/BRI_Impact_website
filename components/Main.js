@@ -5,7 +5,7 @@ import faFacebook from "@fortawesome/fontawesome-free-brands/faFacebook";
 import faInstagram from "@fortawesome/fontawesome-free-brands/faInstagram";
 import faGithub from "@fortawesome/fontawesome-free-brands/faGithub";
 import React from "react";
-import Graph from "./graph";
+import Graph from "./Graph";
 
 class Main extends React.Component {
   render() {
