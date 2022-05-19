@@ -14,8 +14,8 @@ const Header = (props) => {
         <div className="inner">
           <h1>BRI IMPACT</h1>
           <p>
-            WHAT ARE THE BRI'S ECONOMIC ON ITS NEIGHBORING COUNTRIES? <br />A
-            CASE STUDY ON KAZAKHSTAN <br />
+            WHAT ARE THE CHINESE BRI'S ECONOMIC IMPACTS ON ITS NEIGHBORING
+            COUNTRIES? <br />A CASE STUDY ON KAZAKHSTAN <br />
             Rachel Zhou
           </p>
         </div>
